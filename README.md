@@ -2,7 +2,7 @@
 
 ## Capstone Project – End-to-End Business Intelligence & Data Analytics
 
-![Cover Page](A_cover_page_for_a_Flipkart_Sales_Analysis_project.png)
+![Cover Page](images/A_cover_page_for_a_Flipkart_Sales_Analysis_project.png)
 
 ---
 
